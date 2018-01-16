@@ -1,0 +1,10 @@
+source 'http://rubygems.org'
+
+gem 'cucumber'
+gem 'rspec'
+gem 'capybara'
+gem 'selenium-webdriver'
+gem 'pry'
+gem 'rake'
+gem 'page-object', '~> 2.0'
+gem 'data_magic'
